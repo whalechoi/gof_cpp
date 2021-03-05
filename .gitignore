@@ -1,0 +1,10 @@
+# binarys
+*.exe
+*.o
+
+# vscode
+.project
+.classpath
+.settings/
+.vscode/
+build/
